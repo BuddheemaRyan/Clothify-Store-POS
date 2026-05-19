@@ -1,5 +1,11 @@
 # Clothify Store POS
 
+[![Java](https://img.shields.io/badge/Java-22-007396?logo=openjdk&logoColor=white)](https://openjdk.org/)
+[![JavaFX](https://img.shields.io/badge/JavaFX-19-4B8BBE?logo=openjfx&logoColor=white)](https://openjfx.io/)
+[![Maven](https://img.shields.io/badge/Maven-3.6%2B-C71A36?logo=apachemaven&logoColor=white)](https://maven.apache.org/)
+[![MySQL](https://img.shields.io/badge/MySQL-8%2B-4479A1?logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![Lombok](https://img.shields.io/badge/Lombok-1.18.40-BC4521)](https://projectlombok.org/)
+
 A desktop Point of Sale (POS) application for a clothing store, built with Java and JavaFX. It provides a centralized dashboard to manage customers, suppliers, employees, inventory, and orders.
 
 ## Features
