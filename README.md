@@ -6,7 +6,7 @@
 [![MySQL](https://img.shields.io/badge/MySQL-8%2B-4479A1?logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![Lombok](https://img.shields.io/badge/Lombok-1.18.40-BC4521)](https://projectlombok.org/)
 
-A desktop Point of Sale (POS) application for a clothing store, built with Java and JavaFX. It provides a centralized dashboard to manage customers, suppliers, employees, inventory, and orders.
+A desktop Point of Sale (POS) application for a clothing store, built with Java and Java-FX. It provides a centralized dashboard to manage customers, suppliers, employees, inventory, and orders.
 
 ## Features
 
