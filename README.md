@@ -6,7 +6,7 @@
 [![MySQL](https://img.shields.io/badge/MySQL-8%2B-4479A1?logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![Lombok](https://img.shields.io/badge/Lombok-1.18.40-BC4521)](https://projectlombok.org/)
 
-A desktop Point of Sale (POS) application for a clothing store, built with Java and Java-FX. It provides a centralized dashboard to manage customers, suppliers, employees, inventory, and orders.
+A desktop Point of Sale (POS) application for a clothing store, built with Java and JavaFX. It provides a centralized dashboard to manage customers, suppliers, employees, inventory, and orders.
 
 ## Features
 
@@ -14,7 +14,7 @@ A desktop Point of Sale (POS) application for a clothing store, built with Java 
 - **Supplier Management** – Manage supplier details including company name, contact information, and address.
 - **Employee Management** – Track employee records with position, salary, NIC, contact number, and employment status.
 - **Inventory Management** – Add, update, and delete clothing items with category, size, price, quantity, and availability status.
-- **Order Processing** – Place orders by selecting items and quantities, apply discounts, and automatically update stock levels. Orders are processed within a database transaction for data integrity.
+- **Order Processing** – Place orders by selecting items and quantities, apply discounts and automatically update stock levels. Orders are processed within a database transaction for data integrity.
 - **Order History / Reports** – View past orders filtered by date, with customer details and itemized order breakdowns.
 - **User Login** – Secure login screen backed by a database credential check.
 
